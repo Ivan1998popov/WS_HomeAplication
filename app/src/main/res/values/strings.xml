@@ -1,0 +1,836 @@
+<resources>
+    <string name="app_name">WS_HomeApplication</string>
+
+
+    <string name="login">admin</string>
+    <string name="password">password</string>
+
+
+
+    <array name="actors">
+        <item>Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed</item>
+        <item>Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior</item>
+        <item>Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo</item>
+        <item>Rowan Atkinson, Matthew Broderick, Niketa Calame, Jim Cummings</item>
+        <item>Marlon Brando, Martin Sheen, Robert Duvall, Frederic Forrest</item>
+        <item>Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton</item>
+        <item>William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson</item>
+        <item>Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn</item>
+        <item>Charles Chaplin, Jack Oakie, Reginald Gardiner, Henry Daniell</item>
+        <item>Antonella Attili, Enzo Cannavale, Isa Danieli, Leo Gullotta</item>
+        <item>Martina Gedeck, Ulrich Mühe, Sebastian Koch, Ulrich Tukur</item>
+        <item>Tsutomu Tatsumi, Ayano Shiraishi, Yoshiko Shinohara, Akemi Yamaguchi</item>
+        <item>Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready</item>
+        <item>Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington</item>
+        <item>Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers</item>
+        <item>Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard</item>
+        <item>Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley</item>
+        <item>Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley</item>
+        <item>Billy Crudup, Billy Bob Thornton, Minnie Driver, John DiMaggio</item>
+        <item>Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser</item>
+        <item>Min-sik Choi, Ji-tae Yu, Hye-jeong Kang, Dae-han Ji</item>
+        <item>Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine</item>
+        <item>Martin Balsam, John Fiedler, Lee J. Cobb, E.G. Marshall</item>
+        <item>Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall</item>
+        <item>Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta</item>
+        <item>Noel Appleby, Ali Astin, Sean Astin, David Aston</item>
+        <item>Eli Wallach, Clint Eastwood, Lee Van Cleef, Aldo Giuffrè</item>
+        <item>Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier</item>
+        <item>Alan Howard, Noel Appleby, Sean Astin, Sala Baker</item>
+        <item>Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys</item>
+        <item>Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams</item>
+        <item>Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy</item>
+        <item>Bruce Allpress, Sean Astin, John Bach, Sala Baker</item>
+        <item>Michael Berryman, Peter Brocco, Dean R. Brooks, Alonzo Brown</item>
+        <item>Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco</item>
+        <item>Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving</item>
+        <item>Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki</item>
+        <item>Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing</item>
+        <item>Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva</item>
+        <item>Morgan Freeman, Andrew Kevin Walker, Kevin Spacey, Daniel Zacapa</item>
+        <item>Jodie Foster, Lawrence A. Bonney, Kasi Lemmons, Lawrence T. Wrentz</item>
+        <item>James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell</item>
+        <item>Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano</item>
+        <item>Robert De Niro, James Woods, Elizabeth McGovern, Joe Pesci</item>
+        <item>Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester</item>
+        <item>Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch</item>
+        <item>Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick</item>
+        <item>Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh, Sanya Malhotra</item>
+        <item>Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis</item>
+        <item>James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore</item>
+        <item>Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams</item>
+        <item>Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn</item>
+        <item>James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo</item>
+        <item>Peter Lorre, Ellen Widmann, Inge Landgut, Otto Wernicke</item>
+        <item>Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans</item>
+        <item>Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta</item>
+        <item>Darsheel Safary, Aamir Khan, Tanay Chheda, Sachet Engineer</item>
+        <item>Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke</item>
+        <item>Peter O\'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins</item>
+        <item>Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito</item>
+        <item>Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Porter Hall</item>
+        <item>Jim Carrey, Kate Winslet, Gerry Robert Byrne, Elijah Wood</item>
+        <item>F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice</item>
+        <item>Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler</item>
+        <item>Marlon Brando, Al Pacino, James Caan, Richard S. Castellano</item>
+        <item>Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro</item>
+        <item>Gregory Peck, John Megna, Frank Overton, Rosemary Murphy</item>
+        <item>Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty</item>
+        <item>Matthew Modine, Adam Baldwin, Vincent D\'Onofrio, R. Lee Ermey</item>
+        <item>Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter</item>
+        <item>Gene Kelly, Donald O\'Connor, Debbie Reynolds, Jean Hagen</item>
+        <item>Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita, Aoi Yûki</item>
+        <item>Paul Newman, Robert Redford, Robert Shaw, Charles Durning</item>
+        <item>Tom Hanks, Tim Allen, Don Rickles, Jim Varney</item>
+        <item>Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Elena Altieri</item>
+        <item>Carl Miller, Edna Purviance, Jackie Coogan, Charles Chaplin</item>
+        <item>Brad Pitt, Mélanie Laurent, Christoph Waltz, Eli Roth</item>
+        <item>Aamir Khan, Madhavan, Sharman Joshi, Kareena Kapoor Khan</item>
+        <item>Benicio Del Toro, Dennis Farina, Vinnie Jones, Brad Pitt</item>
+        <item>Graham Chapman, John Cleese, Eric Idle, Terry Gilliam</item>
+        <item>Stephen Baldwin, Gabriel Byrne, Benicio Del Toro, Kevin Pollak</item>
+        <item>Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello</item>
+        <item>Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper</item>
+        <item>Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô</item>
+        <item>Claudia Cardinale, Henry Fonda, Jason Robards, Charles Bronson</item>
+        <item>Edward Norton, Edward Furlong, Beverly D\'Angelo, Jennifer Lien</item>
+        <item>Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow</item>
+        <item>Anthony Perkins, Vera Miles, John Gavin, Janet Leigh</item>
+        <item>Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains</item>
+        <item>Virginia Cherrill, Florence Lee, Harry Myers, Al Ernest Garcia</item>
+        <item>Tom Hanks, David Morse, Michael Clarke Duncan, Bonnie Hunt</item>
+        <item>François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot</item>
+        <item>Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford</item>
+        <item>Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey</item>
+        <item>James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter</item>
+        <item>Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard</item>
+        <item>Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg</item>
+        <item>Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick</item>
+        <item>Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover</item>
+        <item>Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist</item>
+    </array>
+
+
+
+    <array name="plot">
+        <item>When a Roman general is betrayed and his family murdered by an emperor\'s corrupt son, he comes to Rome as a gladiator to seek revenge.</item>
+        <item>A man juggles searching for his wife\'s murderer and keeping his short-term memory loss from being an obstacle.</item>
+        <item>Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.</item>
+        <item>Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.</item>
+        <item>During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade colonel who has set himself up as a god among a local tribe.</item>
+        <item>After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious life-form, and they soon realize that its life cycle has merely begun.</item>
+        <item>A screenwriter is hired to rework a faded silent film star\'s script only to find himself developing a dangerous relationship.</item>
+        <item>An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically try to stop.</item>
+        <item>Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel\'s regime.</item>
+        <item>A filmmaker recalls his childhood, when he fell in love with the movies at his village\'s theater and formed a deep friendship with the theater\'s projectionist.</item>
+        <item>In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.</item>
+        <item>A young boy and his little sister struggle to survive in Japan during World War II.</item>
+        <item>After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.</item>
+        <item>With the help of a German bounty hunter , a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.</item>
+        <item>A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.</item>
+        <item>In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.</item>
+        <item>A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter\'s best friend.</item>
+        <item>Eight years after the Joker\'s reign of anarchy, the Dark Knight, with the help of the enigmatic Selina, is forced from his imposed exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.</item>
+        <item>On a journey to find the cure for a Tatarigami\'s curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.</item>
+        <item>The moon from Alien (1979) has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?</item>
+        <item>After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is year, only to find that he must find his captor in five days.</item>
+        <item>When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.</item>
+        <item>A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.</item>
+        <item>In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.</item>
+        <item>The lives of two mob hit men, a boxer, a gangster\'s wife, and a pair of diner bandits intertwine in four tales of violence and redemption.</item>
+        <item>Gandalf and Aragorn lead the World of Men against Sauron\'s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.</item>
+        <item>A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.</item>
+        <item>An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.</item>
+        <item>A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron.</item>
+        <item>While not intelligent, Forrest Gump has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.</item>
+        <item>After the rebels are overpowered by the Empire on their newly established base, Luke Skywalker begins Jedi training with Master Yoda. His friends accept shelter from a questionable ally as Darth Vader hunts them in a plan to capture Luke.</item>
+        <item>A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.</item>
+        <item>While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron\'s new ally, Saruman, and his hordes of Isengard.</item>
+        <item>A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.</item>
+        <item>The story of Henry Hill and his life through the teen years into the years of mafia, covering his relationship with wife Karen Hill and his Mob partners Jimmy Conway and Tommy DeVitto in the Italian-American crime syndicate.</item>
+        <item>A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.</item>
+        <item>A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.</item>
+        <item>Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire\'s world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.</item>
+        <item>Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.</item>
+        <item>Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.</item>
+        <item>A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.</item>
+        <item>An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.</item>
+        <item>When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.</item>
+        <item>A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.</item>
+        <item>A veteran British barrister must defend his client in a murder trial that has surprise after surprise.</item>
+        <item>The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.</item>
+        <item>Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.</item>
+        <item>Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.</item>
+        <item>A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.</item>
+        <item>A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend\'s wife, all the while becoming dangerously obsessed with her.</item>
+        <item>After a daring mission to rescue Han Solo from Jabba the Hutt, the rebels dispatch to Endor to destroy a more powerful Death Star. Meanwhile, Luke struggles to help Vader back from the dark side without falling into the Emperor\'s trap.</item>
+        <item>After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.</item>
+        <item>When his secret bride is executed for assaulting an English soldier who tried to rape her, Sir William Wallace begins a revolt against King Edward I of England.</item>
+        <item>When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.</item>
+        <item>The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.</item>
+        <item>Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.</item>
+        <item>An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.</item>
+        <item>In future Britain, Alex DeLarge, a charismatic and psycopath delinquent, who likes to practice crimes and ultra-violence with his gang, is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society\'s crime problem - but not all goes according to plan.</item>
+        <item>The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.</item>
+        <item>A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, while attempting to save a preadolescent prostitute in the process.</item>
+        <item>An insurance representative lets himself be talked into a murder/insurance fraud scheme that arouses an insurance investigator\'s suspicions.</item>
+        <item>When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.</item>
+        <item>The incredible story of Wolfgang Amadeus Mozart, told by his peer and secret rival Antonio Salieri - now confined to an insane asylum.</item>
+        <item>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</item>
+        <item>The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.</item>
+        <item>The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on the family crime syndicate.</item>
+        <item>Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.</item>
+        <item>The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it\'s up to Woody to convince the other toys that they weren\'t abandoned and to return home.</item>
+        <item>A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.</item>
+        <item>Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.</item>
+        <item>A silent film production company and cast make a difficult transition to sound.</item>
+        <item>Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?</item>
+        <item>In Chicago in September 1936, a young con man seeking revenge for his murdered partner teams up with a master of the big con to win a fortune from a criminal banker.</item>
+        <item>A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy\'s room.</item>
+        <item>In post-war Italy, a working-class man\'s bicycle is stolen. He and his son set out to find it.</item>
+        <item>The Tramp cares for an abandoned child, but events put that relationship in jeopardy.</item>
+        <item>In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner\'s vengeful plans for the same.</item>
+        <item>Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them "idiots".</item>
+        <item>Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.</item>
+        <item>King Arthur and his knights embark on a low-budget search for the Grail, encountering many, very silly obstacles.</item>
+        <item>A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.</item>
+        <item>Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin\'s trade.</item>
+        <item>Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.</item>
+        <item>During her family\'s move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.</item>
+        <item>A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.</item>
+        <item>A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.</item>
+        <item>A team of explorers travel through a wormhole in space in an attempt to ensure humanity\'s survival.</item>
+        <item>A Phoenix secretary embezzles $40,000 from her employer\'s client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.</item>
+        <item>In Casablanca in December 1941, a cynical American expatriate encounters a former lover, with unforeseen complications.</item>
+        <item>With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.</item>
+        <item>The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.</item>
+        <item>After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.</item>
+        <item>The Tramp struggles to live in modern industrial society with the help of a young homeless woman.</item>
+        <item>Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.</item>
+        <item>A wheelchair-bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.</item>
+        <item>A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.</item>
+        <item>An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.</item>
+        <item>A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced cyborg.</item>
+        <item>Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.</item>
+        <item>A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student\'s potential.</item>
+    </array>
+
+
+    <array name="awards">
+        <item>Won 5 Oscars. Another 53 wins &amp;amp; 101 nominations.Won 5 Oscars. Another 53 wins &amp;amp; 101 nominations.Won 5 Oscars. Another 53 wins &amp;amp; 101 nominations.</item>
+        <item>Nominated for 2 Oscars. Another 55 wins &amp;amp; 55 nominations.Nominated for 2 Oscars. Another 55 wins &amp;amp; 55 nominations.Nominated for 2 Oscars. Another 55 wins &amp;amp; 55 nominations.</item>
+        <item>Nominated for 2 Oscars. Another 5 wins &amp;amp; 36 nominations.Nominated for 2 Oscars. Another 5 wins &amp;amp; 36 nominations.Nominated for 2 Oscars. Another 5 wins &amp;amp; 36 nominations.</item>
+        <item>Won 2 Oscars. Another 33 wins &amp;amp; 30 nominations.Won 2 Oscars. Another 33 wins &amp;amp; 30 nominations.Won 2 Oscars. Another 33 wins &amp;amp; 30 nominations.</item>
+        <item>Won 2 Oscars. Another 18 wins &amp;amp; 31 nominations.Won 2 Oscars. Another 18 wins &amp;amp; 31 nominations.Won 2 Oscars. Another 18 wins &amp;amp; 31 nominations.</item>
+        <item>Won 1 Oscar. Another 16 wins &amp;amp; 19 nominations.Won 1 Oscar. Another 16 wins &amp;amp; 19 nominations.Won 1 Oscar. Another 16 wins &amp;amp; 19 nominations.</item>
+        <item>Won 3 Oscars. Another 15 wins &amp;amp; 18 nominations.Won 3 Oscars. Another 15 wins &amp;amp; 18 nominations.Won 3 Oscars. Another 15 wins &amp;amp; 18 nominations.</item>
+        <item>Nominated for 4 Oscars. Another 13 wins &amp;amp; 6 nominations.Nominated for 4 Oscars. Another 13 wins &amp;amp; 6 nominations.Nominated for 4 Oscars. Another 13 wins &amp;amp; 6 nominations.</item>
+        <item>Nominated for 5 Oscars. Another 6 wins &amp;amp; 1 nomination.Nominated for 5 Oscars. Another 6 wins &amp;amp; 1 nomination.Nominated for 5 Oscars. Another 6 wins &amp;amp; 1 nomination.</item>
+        <item>Won 1 Oscar. Another 21 wins &amp;amp; 25 nominations.Won 1 Oscar. Another 21 wins &amp;amp; 25 nominations.Won 1 Oscar. Another 21 wins &amp;amp; 25 nominations.</item>
+        <item>Won 1 Oscar. Another 75 wins &amp;amp; 33 nominations.Won 1 Oscar. Another 75 wins &amp;amp; 33 nominations.Won 1 Oscar. Another 75 wins &amp;amp; 33 nominations.</item>
+        <item>3 wins.3 wins.3 wins.</item>
+        <item>Nominated for 1 BAFTA Film Award. Another 4 wins &amp;amp; 2 nominations.Nominated for 1 BAFTA Film Award. Another 4 wins &amp;amp; 2 nominations.Nominated for 1 BAFTA Film Award. Another 4 wins &amp; 2 nominations.</item>
+        <item>Won 2 Oscars. Another 56 wins &amp; 151 nominations.Won 2 Oscars. Another 56 wins &amp; 151 nominations.Won 2 Oscars. Another 56 wins &amp;amp; 151 nominations.</item>
+        <item>3 wins &amp; 5 nominations.3 wins &amp; 5 nominations.3 wins &amp; 5 nominations.</item>
+        <item>Won 1 Oscar. Another 90 wins &amp; 90 nominations.Won 1 Oscar. Another 90 wins &amp; 90 nominations.Won 1 Oscar. Another 90 wins &amp;amp; 90 nominations.</item>
+        <item>Won 5 Oscars. Another 103 wins &amp; 98 nominations.Won 5 Oscars. Another 103 wins &amp; 98 nominations.Won 5 Oscars. Another 103 wins &amp; 98 nominations.</item>
+        <item>Nominated for 1 BAFTA Film Award. Another 38 wins &amp; 101 nominations.Nominated for 1 BAFTA Film Award. Another 38 wins &amp; 101 nominations.Nominated for 1 BAFTA Film Award. Another 38 wins &amp; 101 nominations.</item>
+        <item>13 wins &amp; 5 nominations.13 wins &amp; 5 nominations.13 wins &amp; 5 nominations.</item>
+        <item>Won 2 Oscars. Another 18 wins &amp; 22 nominations.Won 2 Oscars. Another 18 wins &amp; 22 nominations.Won 2 Oscars. Another 18 wins &amp; 22 nominations.</item>
+        <item>38 wins &amp; 18 nominations.38 wins &amp; 18 nominations.38 wins &amp; 18 nominations.</item>
+        <item>Won 2 Oscars. Another 151 wins &amp; 153 nominations.Won 2 Oscars. Another 151 wins &amp; 153 nominations.Won 2 Oscars. Another 151 wins &amp; 153 nominations.</item>
+        <item>Nominated for 3 Oscars. Another 16 wins &amp; 8 nominations.Nominated for 3 Oscars. Another 16 wins &amp; 8 nominations.Nominated for 3 Oscars. Another 16 wins &amp; 8 nominations.</item>
+        <item>Won 7 Oscars. Another 71 wins &amp; 33 nominations.Won 7 Oscars. Another 71 wins &amp; 33 nominations.Won 7 Oscars. Another 71 wins &amp; 33 nominations.</item>
+        <item>Won 1 Oscar. Another 60 wins &amp; 68 nominations.Won 1 Oscar. Another 60 wins &amp; 68 nominations.Won 1 Oscar. Another 60 wins &amp; 68 nominations.</item>
+        <item>Won 11 Oscars. Another 197 wins &amp; 122 nominations.Won 11 Oscars. Another 197 wins &amp; 122 nominations.Won 11 Oscars. Another 197 wins &amp; 122 nominations.</item>
+        <item>1 win &amp; 2 nominations.1 win &amp; 2 nominations.1 win &amp; 2 nominations.</item>
+        <item>Nominated for 1 Oscar. Another 10 wins &amp; 31 nominations.Nominated for 1 Oscar. Another 10 wins &amp; 31 nominations.Nominated for 1 Oscar. Another 10 wins &amp; 31 nominations.</item>
+        <item>Won 4 Oscars. Another 113 wins &amp; 124 nominations.Won 4 Oscars. Another 113 wins &amp; 124 nominations.Won 4 Oscars. Another 113 wins &amp; 124 nominations.</item>
+        <item>Won 6 Oscars. Another 39 wins &amp; 66 nominations.Won 6 Oscars. Another 39 wins &amp; 66 nominations.Won 6 Oscars. Another 39 wins &amp; 66 nominations.</item>
+        <item>Won 1 Oscar. Another 21 wins &amp; 19 nominations.Won 1 Oscar. Another 21 wins &amp; 19 nominations.Won 1 Oscar. Another 21 wins &amp; 19 nominations.</item>
+        <item>Won 4 Oscars. Another 150 wins &amp; 203 nominations.Won 4 Oscars. Another 150 wins &amp; 203 nominations.Won 4 Oscars. Another 150 wins &amp; 203 nominations.</item>
+        <item>Won 2 Oscars. Another 118 wins &amp; 138 nominations.Won 2 Oscars. Another 118 wins &amp; 138 nominations.Won 2 Oscars. Another 118 wins &amp; 138 nominations.</item>
+        <item>Won 5 Oscars. Another 30 wins &amp; 13 nominations.Won 5 Oscars. Another 30 wins &amp; 13 nominations.Won 5 Oscars. Another 30 wins &amp; 13 nominations.</item>
+        <item>Won 1 Oscar. Another 37 wins &amp; 35 nominations.Won 1 Oscar. Another 37 wins &amp; 35 nominations.Won 1 Oscar. Another 37 wins &amp; 35 nominations.</item>
+        <item>Won 4 Oscars. Another 34 wins &amp; 45 nominations.Won 4 Oscars. Another 34 wins &amp; 45 nominations.Won 4 Oscars. Another 34 wins &amp; 45 nominations.</item>
+        <item>Nominated for 2 Oscars. Another 5 wins &amp; 6 nominations.Nominated for 2 Oscars. Another 5 wins &amp; 6 nominations.Nominated for 2 Oscars. Another 5 wins &amp; 6 nominations.</item>
+        <item>Won 6 Oscars. Another 50 wins &amp; 28 nominations.Won 6 Oscars. Another 50 wins &amp; 28 nominations.Won 6 Oscars. Another 50 wins &amp; 28 nominations.</item>
+        <item>Nominated for 4 Oscars. Another 65 wins &amp; 38 nominations.Nominated for 4 Oscars. Another 65 wins &amp; 38 nominations.Nominated for 4 Oscars. Another 65 wins &amp; 38 nominations.</item>
+        <item>Nominated for 1 Oscar. Another 25 wins &amp; 34 nominations.Nominated for 1 Oscar. Another 25 wins &amp; 34 nominations.Nominated for 1 Oscar. Another 25 wins &amp; 34 nominations.</item>
+        <item>Won 5 Oscars. Another 49 wins &amp; 37 nominations.Won 5 Oscars. Another 49 wins &amp; 37 nominations.Won 5 Oscars. Another 49 wins &amp; 37 nominations.</item>
+        <item>Nominated for 5 Oscars. Another 6 wins &amp; 1 nomination.Nominated for 5 Oscars. Another 6 wins &amp; 1 nomination.Nominated for 5 Oscars. Another 6 wins &amp; 1 nomination.</item>
+        <item>Won 3 Oscars. Another 66 wins &amp; 51 nominations.Won 3 Oscars. Another 66 wins &amp; 51 nominations.Won 3 Oscars. Another 66 wins &amp; 51 nominations.</item>
+        <item>Nominated for 2 Golden Globes. Another 11 wins &amp; 7 nominations.Nominated for 2 Golden Globes. Another 11 wins &amp; 7 nominations.Nominated for 2 Golden Globes. Another 11 wins &amp; 7 nominations.</item>
+        <item>Nominated for 6 Oscars. Another 3 wins &amp; 9 nominations.Nominated for 6 Oscars. Another 3 wins &amp; 9 nominations.Nominated for 6 Oscars. Another 3 wins &amp; 9 nominations.</item>
+        <item>Nominated for 6 Oscars. Another 13 wins &amp; 5 nominations.Nominated for 6 Oscars. Another 13 wins &amp; 5 nominations.Nominated for 6 Oscars. Another 13 wins &amp; 5 nominations.</item>
+        <item>Won 1 Oscar. Another 9 wins &amp; 12 nominations.Won 1 Oscar. Another 9 wins &amp; 12 nominations.Won 1 Oscar. Another 9 wins &amp; 12 nominations.</item>
+        <item>3 wins.3 wins.3 wins.</item>
+        <item>Nominated for 3 Oscars. Another 8 wins &amp; 4 nominations.Nominated for 3 Oscars. Another 8 wins &amp; 4 nominations.Nominated for 3 Oscars. Another 8 wins &amp; 4 nominations.</item>
+        <item>Nominated for 2 Oscars. Another 8 wins &amp; 4 nominations.Nominated for 2 Oscars. Another 8 wins &amp; 4 nominations.Nominated for 2 Oscars. Another 8 wins &amp; 4 nominations.</item>
+        <item>Nominated for 4 Oscars. Another 20 wins &amp; 16 nominations.Nominated for 4 Oscars. Another 20 wins &amp; 16 nominations.Nominated for 4 Oscars. Another 20 wins &amp; 16 nominations.</item>
+        <item>9 wins &amp; 15 nominations.9 wins &amp; 15 nominations.9 wins &amp; 15 nominations.</item>
+        <item>Won 5 Oscars. Another 26 wins &amp; 29 nominations.Won 5 Oscars. Another 26 wins &amp; 29 nominations.Won 5 Oscars. Another 26 wins &amp; 29 nominations.</item>
+        <item>2 wins.2 wins.2 wins.</item>
+        <item>Nominated for 1 Oscar. Another 33 wins &amp; 62 nominations.Nominated for 1 Oscar. Another 33 wins &amp; 62 nominations.Nominated for 1 Oscar. Another 33 wins &amp; 62 nominations.</item>
+        <item>Nominated for 5 Oscars. Another 57 wins &amp; 64 nominations.Nominated for 5 Oscars. Another 57 wins &amp; 64 nominations.Nominated for 5 Oscars. Another 57 wins &amp; 64 nominations.</item>
+        <item>14 wins &amp; 15 nominations.14 wins &amp; 15 nominations.14 wins &amp; 15 nominations.</item>
+        <item>Nominated for 4 Oscars. Another 9 wins &amp; 17 nominations.Nominated for 4 Oscars. Another 9 wins &amp; 17 nominations.Nominated for 4 Oscars. Another 9 wins &amp; 17 nominations.</item>
+        <item>Won 7 Oscars. Another 23 wins &amp; 14 nominations.Won 7 Oscars. Another 23 wins &amp; 14 nominations.Won 7 Oscars. Another 23 wins &amp; 14 nominations.</item>
+        <item>Nominated for 4 Oscars. Another 21 wins &amp; 15 nominations.Nominated for 4 Oscars. Another 21 wins &amp; 15 nominations.Nominated for 4 Oscars. Another 21 wins &amp; 15 nominations.</item>
+        <item>Nominated for 7 Oscars. Another 2 wins &amp; 2 nominations.Nominated for 7 Oscars. Another 2 wins &amp; 2 nominations.Nominated for 7 Oscars. Another 2 wins &amp; 2 nominations.</item>
+        <item>Won 1 Oscar. Another 70 wins &amp; 109 nominations.Won 1 Oscar. Another 70 wins &amp; 109 nominations.Won 1 Oscar. Another 70 wins &amp; 109 nominations.</item>
+        <item>Won 8 Oscars. Another 33 wins &amp; 14 nominations.Won 8 Oscars. Another 33 wins &amp; 14 nominations.Won 8 Oscars. Another 33 wins &amp; 14 nominations.</item>
+        <item>Nominated for 7 Oscars. Another 19 wins &amp; 30 nominations.Nominated for 7 Oscars. Another 19 wins &amp; 30 nominations.Nominated for 7 Oscars. Another 19 wins &amp; 30 nominations.</item>
+        <item>Won 3 Oscars. Another 23 wins &amp; 27 nominations.Won 3 Oscars. Another 23 wins &amp; 27 nominations.Won 3 Oscars. Another 23 wins &amp; 27 nominations.</item>
+        <item>Won 6 Oscars. Another 10 wins &amp; 20 nominations.Won 6 Oscars. Another 10 wins &amp; 20 nominations.Won 6 Oscars. Another 10 wins &amp; 20 nominations.</item>
+        <item>Won 3 Oscars. Another 10 wins &amp; 16 nominations.Won 3 Oscars. Another 10 wins &amp; 16 nominations.Won 3 Oscars. Another 10 wins &amp; 16 nominations.</item>
+        <item>Won 2 Oscars. Another 59 wins &amp; 91 nominations.Won 2 Oscars. Another 59 wins &amp; 91 nominations.Won 2 Oscars. Another 59 wins &amp; 91 nominations.</item>
+        <item>Nominated for 1 Oscar. Another 7 wins &amp; 9 nominations.Nominated for 1 Oscar. Another 7 wins &amp; 9 nominations.Nominated for 1 Oscar. Another 7 wins &amp; 9 nominations.</item>
+        <item>Won 1 Oscar. Another 13 wins &amp; 8 nominations.Won 1 Oscar. Another 13 wins &amp; 8 nominations.Won 1 Oscar. Another 13 wins &amp; 8 nominations.</item>
+        <item>Nominated for 2 Oscars. Another 5 wins &amp; 7 nominations.Nominated for 2 Oscars. Another 5 wins &amp; 7 nominations.Nominated for 2 Oscars. Another 5 wins &amp; 7 nominations.</item>
+        <item>8 wins &amp; 11 nominations.8 wins &amp; 11 nominations.8 wins &amp; 11 nominations.</item>
+        <item>Won 7 Oscars. Another 10 wins &amp; 6 nominations.Won 7 Oscars. Another 10 wins &amp; 6 nominations.Won 7 Oscars. Another 10 wins &amp; 6 nominations.</item>
+        <item>Nominated for 3 Oscars. Another 23 wins &amp; 18 nominations.Nominated for 3 Oscars. Another 23 wins &amp; 18 nominations.Nominated for 3 Oscars. Another 23 wins &amp; 18 nominations.</item>
+        <item>Nominated for 1 Oscar. Another 18 wins.Nominated for 1 Oscar. Another 18 wins.Nominated for 1 Oscar. Another 18 wins.</item>
+        <item>1 win.1 win.1 win.</item>
+        <item>Won 1 Oscar. Another 129 wins &amp; 165 nominations.Won 1 Oscar. Another 129 wins &amp; 165 nominations.Won 1 Oscar. Another 129 wins &amp; 165 nominations.</item>
+        <item>25 wins &amp; 13 nominations.25 wins &amp; 13 nominations.25 wins &amp; 13 nominations.</item>
+        <item>4 wins &amp; 6 nominations.4 wins &amp; 6 nominations.4 wins &amp; 6 nominations.</item>
+        <item>2 wins &amp; 2 nominations.2 wins &amp; 2 nominations.2 wins &amp; 2 nominations.</item>
+        <item>Won 2 Oscars. Another 32 wins &amp; 16 nominations.Won 2 Oscars. Another 32 wins &amp; 16 nominations.Won 2 Oscars. Another 32 wins &amp; 16 nominations.</item>
+        <item>5 wins &amp; 11 nominations.5 wins &amp; 11 nominations.5 wins &amp; 11 nominations.</item>
+        <item>Won 5 Oscars. Another 74 wins &amp; 74 nominations.Won 5 Oscars. Another 74 wins &amp; 74 nominations.Won 5 Oscars. Another 74 wins &amp; 74 nominations.</item>
+        <item>Won 1 Oscar. Another 56 wins &amp; 27 nominations.Won 1 Oscar. Another 56 wins &amp; 27 nominations.Won 1 Oscar. Another 56 wins &amp; 27 nominations.</item>
+        <item>4 wins &amp; 5 nominations.4 wins &amp; 5 nominations.4 wins &amp; 5 nominations.</item>
+        <item>Nominated for 1 Oscar. Another 4 wins &amp; 13 nominations.Nominated for 1 Oscar. Another 4 wins &amp; 13 nominations.Nominated for 1 Oscar. Another 4 wins &amp; 13 nominations.</item>
+        <item>Won 1 Oscar. Another 41 wins &amp; 142 nominations.Won 1 Oscar. Another 41 wins &amp; 142 nominations.Won 1 Oscar. Another 41 wins &amp; 142 nominations.</item>
+        <item>Nominated for 4 Oscars. Another 5 wins &amp; 9 nominations.Nominated for 4 Oscars. Another 5 wins &amp; 9 nominations.Nominated for 4 Oscars. Another 5 wins &amp; 9 nominations.</item>
+        <item>Won 3 Oscars. Another 5 wins &amp; 8 nominations.Won 3 Oscars. Another 5 wins &amp; 8 nominations.Won 3 Oscars. Another 5 wins &amp; 8 nominations.</item>
+        <item>3 wins.3 wins.3 wins.</item>
+        <item>Nominated for 4 Oscars. Another 15 wins &amp; 30 nominations.Nominated for 4 Oscars. Another 15 wins &amp; 30 nominations.Nominated for 4 Oscars. Another 15 wins &amp; 30 nominations.</item>
+        <item>Nominated for 1 Golden Globe. Another 35 wins &amp; 39 nominations.Nominated for 1 Golden Globe. Another 35 wins &amp; 39 nominations.Nominated for 1 Golden Globe. Another 35 wins &amp; 39 nominations.</item>
+        <item>4 wins &amp; 1 nomination.4 wins &amp; 1 nomination.4 wins &amp; 1 nomination.</item>
+        <item>Won 4 Oscars. Another 30 wins &amp; 23 nominations.Won 4 Oscars. Another 30 wins &amp; 23 nominations.Won 4 Oscars. Another 30 wins &amp; 23 nominations.</item>
+        <item>Nominated for 4 Oscars. Another 6 wins &amp; 8 nominations.Nominated for 4 Oscars. Another 6 wins &amp; 8 nominations.Nominated for 4 Oscars. Another 6 wins &amp; 8 nominations.</item>
+        <item>Won 3 Oscars. Another 51 wins &amp; 72 nominations.Won 3 Oscars. Another 51 wins &amp; 72 nominations.Won 3 Oscars. Another 51 wins &amp; 72 nominations.</item>
+        <item>Won 4 Oscars. Another 92 wins &amp; 134 nominations.Won 4 Oscars. Another 92 wins &amp; 134 nominations.Won 4 Oscars. Another 92 wins &amp; 134 nominations.</item>
+        <item>Won 4 Oscars. Another 24 wins &amp; 24 nominations.Won 4 Oscars. Another 24 wins &amp; 24 nominations.Won 4 Oscars. Another 24 wins &amp; 24 nominations.</item>
+        <item>Won 1 Oscar. Another 18 wins &amp; 26 nominations.Won 1 Oscar. Another 18 wins &amp; 26 nominations.Won 1 Oscar. Another 18 wins &amp; 26 nominations.</item>
+        <item>Won 3 Oscars. Another 88 wins &amp; 135 nominations.Won 3 Oscars. Another 88 wins &amp; 135 nominations.Won 3 Oscars. Another 88 wins &amp; 135 nominations.</item>
+    </array>
+
+    <array name="title">
+        <item>Gladiator</item>
+        <item>Memento</item>
+        <item>The Prestige</item>
+        <item>The Lion King</item>
+        <item>Apocalypse Now</item>
+        <item>Alien</item>
+        <item>Sunset Boulevard</item>
+        <item>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</item>
+        <item>The Great Dictator</item>
+        <item>Cinema Paradiso</item>
+        <item>The Lives of Others</item>
+        <item>Grave of the Fireflies</item>
+        <item>Paths of Glory</item>
+        <item>Django Unchained</item>
+        <item>The Shining</item>
+        <item>WALL·E</item>
+        <item>American Beauty</item>
+        <item>The Dark Knight Rises</item>
+        <item>Princess Mononoke</item>
+        <item>Aliens</item>
+        <item>Oldboy</item>
+        <item>The Dark Knight</item>
+        <item>12 Angry Men</item>
+        <item>Schindler\'s List</item>
+        <item>Pulp Fiction</item>
+        <item>The Lord of the Rings: The Return of the King</item>
+        <item>The Good, the Bad and the Ugly</item>
+        <item>Fight Club</item>
+        <item>The Lord of the Rings: The Fellowship of the Ring</item>
+        <item>Forrest Gump</item>
+        <item>Star Wars: Episode V - The Empire Strikes Back</item>
+        <item>Inception</item>
+        <item>The Lord of the Rings: The Two Towers</item>
+        <item>One Flew Over the Cuckoo\'s Nest</item>
+        <item>Goodfellas</item>
+        <item>The Matrix</item>
+        <item>Seven Samurai</item>
+        <item>Star Wars: Episode IV - A New Hope</item>
+        <item>City of God</item>
+        <item>Se7en</item>
+        <item>The Silence of the Lambs</item>
+        <item>It\'s a Wonderful Life</item>
+        <item>Life Is Beautiful</item>
+        <item>Once Upon a Time in America</item>
+        <item>Witness for the Prosecution</item>
+        <item>Das Boot</item>
+        <item>Citizen Kane</item>
+        <item>Dangal</item>
+        <item>North by Northwest</item>
+        <item>Vertigo</item>
+        <item>Star Wars: Episode VI - Return of the Jedi</item>
+        <item>Reservoir Dogs</item>
+        <item>Braveheart</item>
+        <item>M</item>
+        <item>Requiem for a Dream</item>
+        <item>Amélie</item>
+        <item>Like Stars on Earth</item>
+        <item>A Clockwork Orange</item>
+        <item>Lawrence of Arabia</item>
+        <item>Taxi Driver</item>
+        <item>Double Indemnity</item>
+        <item>Eternal Sunshine of the Spotless Mind</item>
+        <item>Amadeus</item>
+        <item>The Shawshank Redemption</item>
+        <item>The Godfather</item>
+        <item>The Godfather: Part II</item>
+        <item>To Kill a Mockingbird</item>
+        <item>Toy Story 3</item>
+        <item>Full Metal Jacket</item>
+        <item>2001: A Space Odyssey</item>
+        <item>Singin\' in the Rain</item>
+        <item>Your Name</item>
+        <item>The Sting</item>
+        <item>Toy Story</item>
+        <item>Bicycle Thieves</item>
+        <item>The Kid</item>
+        <item>Inglourious Basterds</item>
+        <item>3 Idiots</item>
+        <item>Snatch</item>
+        <item>Monty Python and the Holy Grail</item>
+        <item>The Usual Suspects</item>
+        <item>Léon: The Professional</item>
+        <item>Saving Private Ryan</item>
+        <item>Spirited Away</item>
+        <item>Once Upon a Time in the West</item>
+        <item>American History X</item>
+        <item>Interstellar</item>
+        <item>Psycho</item>
+        <item>Casablanca</item>
+        <item>City Lights</item>
+        <item>The Green Mile</item>
+        <item>The Intouchables</item>
+        <item>Modern Times</item>
+        <item>Raiders of the Lost Ark</item>
+        <item>Rear Window</item>
+        <item>The Pianist</item>
+        <item>The Departed</item>
+        <item>Terminator 2: Judgment Day</item>
+        <item>Back to the Future</item>
+        <item>Whiplash</item>
+
+    </array>
+    <array name="poster">
+        <item>movie46</item>
+        <item>movie47</item>
+        <item>movie48</item>
+        <item>movie49</item>
+        <item>movie50</item>
+        <item>movie51</item>
+        <item>movie52</item>
+        <item>movie53</item>
+        <item>movie54</item>
+        <item>movie55</item>
+        <item>movie56</item>
+        <item>movie57</item>
+        <item>movie58</item>
+        <item>movie59</item>
+        <item>movie60</item>
+        <item>movie61</item>
+        <item>movie62</item>
+        <item>movie63</item>
+        <item>movie64</item>
+        <item>movie65</item>
+        <item>movie66</item>
+        <item>movie4</item>
+        <item>movie5</item>
+        <item>movie6</item>
+        <item>movie7</item>
+        <item>movie8</item>
+        <item>movie9</item>
+        <item>movie10</item>
+        <item>movie11</item>
+        <item>movie12</item>
+        <item>movie13</item>
+        <item>movie14</item>
+        <item>movie15</item>
+        <item>movie16</item>
+        <item>movie17</item>
+        <item>movie18</item>
+        <item>movie19</item>
+        <item>movie20</item>
+        <item>movie21</item>
+        <item>movie22</item>
+        <item>movie23</item>
+        <item>movie24</item>
+        <item>movie25</item>
+        <item>movie67</item>
+        <item>movie68</item>
+        <item>movie69</item>
+        <item>movie70</item>
+        <item>movie71</item>
+        <item>movie72</item>
+        <item>movie73</item>
+        <item>movie74</item>
+        <item>movie75</item>
+        <item>movie76</item>
+        <item>movie77</item>
+        <item>movie78</item>
+        <item>movie79</item>
+        <item>movie80</item>
+        <item>movie81</item>
+        <item>movie82</item>
+        <item>movie83</item>
+        <item>movie84</item>
+        <item>movie85</item>
+        <item>movie86</item>
+        <item>movie1</item>
+        <item>movie2</item>
+        <item>movie3</item>
+        <item>movie87</item>
+        <item>movie88</item>
+        <item>movie89</item>
+        <item>movie90</item>
+        <item>movie91</item>
+        <item>movie92</item>
+        <item>movie93</item>
+        <item>movie94</item>
+        <item>movie95</item>
+        <item>movie96</item>
+        <item>movie97</item>
+        <item>movie98</item>
+        <item>movie99</item>
+        <item>movie100</item>
+        <item>movie26</item>
+        <item>movie27</item>
+        <item>movie28</item>
+        <item>movie29</item>
+        <item>movie30</item>
+        <item>movie31</item>
+        <item>movie32</item>
+        <item>movie33</item>
+        <item>movie34</item>
+        <item>movie35</item>
+        <item>movie36</item>
+        <item>movie37</item>
+        <item>movie38</item>
+        <item>movie39</item>
+        <item>movie40</item>
+        <item>movie41</item>
+        <item>movie42</item>
+        <item>movie43</item>
+        <item>movie44</item>
+        <item>movie45</item>
+    </array>
+    <array name="year">
+        <item>2000</item>
+        <item>2000</item>
+        <item>2006</item>
+        <item>1994</item>
+        <item>1979</item>
+        <item>1979</item>
+        <item>1950</item>
+        <item>1964</item>
+        <item>1940</item>
+        <item>1988</item>
+        <item>2006</item>
+        <item>1988</item>
+        <item>1957</item>
+        <item>2012</item>
+        <item>1980</item>
+        <item>2008</item>
+        <item>1999</item>
+        <item>2012</item>
+        <item>1997</item>
+        <item>1986</item>
+        <item>2003</item>
+        <item>2008</item>
+        <item>1957</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>2003</item>
+        <item>1966</item>
+        <item>1999</item>
+        <item>2001</item>
+        <item>1994</item>
+        <item>1980</item>
+        <item>2010</item>
+        <item>2002</item>
+        <item>1975</item>
+        <item>1990</item>
+        <item>1999</item>
+        <item>1954</item>
+        <item>1977</item>
+        <item>2002</item>
+        <item>1995</item>
+        <item>1991</item>
+        <item>1946</item>
+        <item>1997</item>
+        <item>1984</item>
+        <item>1957</item>
+        <item>1981</item>
+        <item>1941</item>
+        <item>2016</item>
+        <item>1959</item>
+        <item>1958</item>
+        <item>1983</item>
+        <item>1992</item>
+        <item>1995</item>
+        <item>1931</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>2007</item>
+        <item>1971</item>
+        <item>1962</item>
+        <item>1976</item>
+        <item>1944</item>
+        <item>2004</item>
+        <item>1984</item>
+        <item>1994</item>
+        <item>1972</item>
+        <item>1974</item>
+        <item>1962</item>
+        <item>2010</item>
+        <item>1987</item>
+        <item>1968</item>
+        <item>1952</item>
+        <item>2016</item>
+        <item>1973</item>
+        <item>1995</item>
+        <item>1948</item>
+        <item>1921</item>
+        <item>2009</item>
+        <item>2009</item>
+        <item>2000</item>
+        <item>1975</item>
+        <item>1995</item>
+        <item>1994</item>
+        <item>1998</item>
+        <item>2001</item>
+        <item>1968</item>
+        <item>1998</item>
+        <item>2014</item>
+        <item>1960</item>
+        <item>1942</item>
+        <item>1931</item>
+        <item>1999</item>
+        <item>2011</item>
+        <item>1936</item>
+        <item>1981</item>
+        <item>1954</item>
+        <item>2002</item>
+        <item>2006</item>
+        <item>1991</item>
+        <item>1985</item>
+        <item>2014</item>
+    </array>
+    <array name="website">
+        <item>http://www.gladiator-thefilm.com</item>
+        <item>http://www.otnemem.com</item>
+        <item>http://touchstone.movies.go.com/index.html?dlink=prestige</item>
+        <item>http://disney.go.com/lionking/</item>
+        <item>http://www.zoetrope.com/zoe_films.cgi?page=films&amp;action=show_one&amp;film_id=13</item>
+        <item>http://www.foxmovies.com/index1.html</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>http://www.miramax.com/movie/cinema-paradiso</item>
+        <item>http://www.thelivesofothers.com/</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>http://unchainedmovie.com/</item>
+        <item>N/A</item>
+        <item>http://www.wall-e.com/</item>
+        <item>http://www.amazon.com/exec/obidos/subst/video/misc/dreamworks/american-beauty/ab-home.html/002-3821383-4244813</item>
+        <item>http://www.thedarkknightrises.com/</item>
+        <item>http://www.princess-mononoke.com</item>
+        <item>N/A</item>
+        <item>http://oldboy.film.ru/</item>
+        <item>http://thedarkknight.warnerbros.com/</item>
+        <item>http://www.criterion.com/films/27871-12-angry-men</item>
+        <item>http://www.schindlerslist.com</item>
+        <item>N/A</item>
+        <item>http://www.lordoftherings.net/</item>
+        <item>N/A</item>
+        <item>http://www.foxmovies.com/fightclub/</item>
+        <item>http://www.lordoftherings.net/film/trilogy/thefellowship.html</item>
+        <item>http://www.paramount.com/movies/forrest-gump/</item>
+        <item>http://www.starwars.com/episode-v/</item>
+        <item>http://inceptionmovie.warnerbros.com/</item>
+        <item>http://www.lordoftherings.net/</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>http://www.whatisthematrix.com</item>
+        <item>N/A</item>
+        <item>http://www.starwars.com/episode-iv/</item>
+        <item>http://www.miramax.com/movie/city-of-god</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>http://www.miramax.com/movie/life-is-beautiful/</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>http://www.starwars.com/episode-vi/</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>http://www.requiemforadream.com</item>
+        <item>http://www.miramax.com/movie/amelie</item>
+        <item>http://www.taarezameenpar.com/</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>http://www.eternalsunshine.com/</item>
+        <item>http://movies.warnerbros.com/amadeus</item>
+        <item>N/A</item>
+        <item>http://www.thegodfather.com</item>
+        <item>http://www.thegodfather.com/</item>
+        <item>N/A</item>
+        <item>http://www.disney.com/ToyStory</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>http://www.FathomEvents.com</item>
+        <item>https://www.funimationfilms.com/movie/yourname/</item>
+        <item>N/A</item>
+        <item>http://www.disney.com/ToyStory</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>http://www.inglouriousbasterds-movie.com/</item>
+        <item>http://www.idiotsacademy.zapak.com/idiotsmain.php</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>http://https://www.facebook.com/SavingPrivateRyanMovie</item>
+        <item>http://bventertainment.go.com/movies/spiritedaway</item>
+        <item>N/A</item>
+        <item>http://www.historyx.com</item>
+        <item>http://www.InterstellarMovie.com/</item>
+        <item>N/A</item>
+        <item>http://www.FathomEvents.com</item>
+        <item>N/A</item>
+        <item>http://www.thegreenmile.com</item>
+        <item>http://weinsteinco.com/sites/the-intouchables/</item>
+        <item>http://www.kino.com/moderntimes</item>
+        <item>http://www.indianajones.com/raiders/</item>
+        <item>N/A</item>
+        <item>http://www.thepianistmovie.com/</item>
+        <item>http://www.thedeparted.com/</item>
+        <item>N/A</item>
+        <item>http://www.bttfmovie.com/</item>
+        <item>http://sonyclassics.com/whiplash/</item>
+    </array>
+
+    <string-array name="rating">
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.5</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>9.0</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.8</item>
+        <item>8.8</item>
+        <item>8.8</item>
+        <item>8.8</item>
+        <item>8.8</item>
+        <item>8.7</item>
+        <item>8.7</item>
+        <item>8.7</item>
+        <item>8.7</item>
+        <item>8.7</item>
+        <item>8.7</item>
+        <item>8.7</item>
+        <item>8.6</item>
+        <item>8.6</item>
+        <item>8.6</item>
+        <item>8.6</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.7</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.3</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.4</item>
+        <item>8.5</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>9.3</item>
+        <item>9.2</item>
+        <item>9.0</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.6</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.4</item>
+        <item>8.3</item>
+        <item>8.3</item>
+        <item>8.6</item>
+        <item>8.6</item>
+        <item>8.6</item>
+        <item>8.6</item>
+        <item>8.6</item>
+        <item>8.5</item>
+        <item>8.6</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.6</item>
+        <item>8.5</item>
+        <item>8.6</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+        <item>8.5</item>
+    </string-array>
+
+
+</resources>
