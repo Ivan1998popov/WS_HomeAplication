@@ -26,9 +26,7 @@ public class AuthorizationActivity extends AppCompatActivity {
         btn_log_in.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent =new Intent(getBaseContext(),InfoActivity.class);
-                startActivity(intent);
-              //  checkAuthorization();
+                checkAuthorization();
             }
         });
 

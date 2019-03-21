@@ -1,8 +1,9 @@
 package ru.myproject.ws_homeapplication.model;
 
+import java.io.Serializable;
 import java.util.Comparator;
 
-public class Movie {
+public class Movie implements Serializable {
 
 
     private String title;
@@ -13,11 +14,12 @@ public class Movie {
     private String actor;
     private String website;
     private String poster;
+    private int position;
 
 
 
     public Movie(String title, int year, String actor,String plot, String award,
-                 String poster,String websitefloat,float rating) {
+                 String poster,String website,float rating) {
         this.title = title;
         this.year = year;
         this.rating = rating;
@@ -26,8 +28,15 @@ public class Movie {
         this.award=award;
         this.actor=actor;
         this.website=website;
+
+    }
+    public int getPosition() {
+        return position;
     }
 
+    public void setPosition(int position) {
+        this.position = position+1;
+    }
     public String getWebsite() {
         return website;
     }
